@@ -1403,7 +1403,7 @@ General Styles - Owlcarousel
 
 /* Agency Page Header */
 .agency-page-header:before {
-  background: transparent;
+  /* background: transparent; */
 }
 
 /* About us Page Header */
